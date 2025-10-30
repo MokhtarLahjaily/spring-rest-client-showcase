@@ -127,4 +127,4 @@ Une fois les 4 applications démarrées, chaque endpoint renvoie la même liste 
 
 ## Licence
 
-Ce projet est distribué sous licence MIT. Consultez le fichier [`LICENSE`](LICENSE) pour plus de détails.
+Ce projet est distribué sous licence MIT. Consultez le fichier [`LICENSE.txt`](LICENSE.txt) pour plus de détails.
